@@ -94,3 +94,7 @@ Pods/
 
 # Artifacts directory
 artifacts/
+
+# Clion
+.idea/*
+CMakeLists.txt
